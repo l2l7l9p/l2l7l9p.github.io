@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://kqp.world/Liella%20%E7%AC%AC%E4%BA%8C%E5%AD%A3%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-09-20</lastmod>
-  </url>
-  <url>
-    <loc>http://kqp.world/%E8%99%B9%E5%92%B25th%20live/</loc>
-    <lastmod>2022-09-18</lastmod>
+    <lastmod>2022-09-27</lastmod>
   </url>
   <url>
     <loc>http://kqp.world/%E3%80%90%E9%95%BF%E6%9B%B4%E3%80%91%E6%9D%82%E5%86%99/</loc>
+    <lastmod>2022-09-27</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E8%99%B9%E5%92%B25th%20live/</loc>
     <lastmod>2022-09-18</lastmod>
   </url>
   <url>
@@ -241,10 +241,6 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%902017ccpc%E6%9D%AD%E5%B7%9EL%E3%80%91%E3%80%90hdu6275%E3%80%91Mod,%20Xor%20and%20Everything%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
     <loc>http://kqp.world/%E3%80%902017%20BSUIR%20Semifinal%20D%E3%80%91Friends%20rescue%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
@@ -254,6 +250,10 @@
   </url>
   <url>
     <loc>http://kqp.world/%E3%80%902017%20BSUIR%20Semifinal%20G%E3%80%91Digital%20characteristic%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%902017ccpc%E6%9D%AD%E5%B7%9EL%E3%80%91%E3%80%90hdu6275%E3%80%91Mod,%20Xor%20and%20Everything%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -277,10 +277,6 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%902019%20NWERC%20B%E3%80%91Balanced%20Cut%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
     <loc>http://kqp.world/%E3%80%902019%20Multi-University%209%20K%E3%80%91Rikka%20with%20Segment%20Tree%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
@@ -289,7 +285,7 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%902019icpc%20Regional%20%E5%8D%97%E6%98%8C%20B%E3%80%91A%20Funny%20Bipartite%20Graph%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%902020%20%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E8%B5%9B%20E%E3%80%91Everybody%20Lost%20Somebody%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -297,31 +293,7 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%902020%20Multi-University%204%20I%E3%80%91Imperative%20Meeting%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
-    <loc>http://kqp.world/%E3%80%902020%20%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E8%B5%9B%20E%E3%80%91Everybody%20Lost%20Somebody%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
-    <loc>http://kqp.world/%E3%80%902020%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9C%81%E9%80%89%E3%80%91%E7%BB%84%E5%90%88%E6%95%B0%E9%97%AE%E9%A2%98%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
-    <loc>http://kqp.world/%E3%80%902020%E7%99%BE%E5%BA%A6%E4%B9%8B%E6%98%9F%E5%88%9D%E8%B5%9B%E4%B8%80%201008%E3%80%91%E3%80%90hdu6750%E3%80%91Function%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
-    <loc>http://kqp.world/%E3%80%902020%E7%89%9B%E5%AE%A2%E5%A4%9A%E6%A0%A1%E7%AC%AC%E5%85%AB%E5%9C%BA%20D%E3%80%91Disgusting%20Relationship%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
-    <loc>http://kqp.world/%E3%80%902020%E7%99%BE%E5%BA%A6%E4%B9%8B%E6%98%9F%E5%A4%8D%E8%B5%9B%201005%E3%80%91Battle%20for%20Wosneth2%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
-    <loc>http://kqp.world/%E3%80%902021%20Multi-University%204%20G%E3%80%91Increasing%20Subsequence%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%902019icpc%20Regional%20%E5%8D%97%E6%98%8C%20B%E3%80%91A%20Funny%20Bipartite%20Graph%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -329,7 +301,27 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90300iq%20Contest%201%20K%E3%80%91Knowledge%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%902019%20NWERC%20B%E3%80%91Balanced%20Cut%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%902020%20Multi-University%204%20I%E3%80%91Imperative%20Meeting%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%902020%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9C%81%E9%80%89%E3%80%91%E7%BB%84%E5%90%88%E6%95%B0%E9%97%AE%E9%A2%98%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%902020%E7%89%9B%E5%AE%A2%E5%A4%9A%E6%A0%A1%E7%AC%AC%E5%85%AB%E5%9C%BA%20D%E3%80%91Disgusting%20Relationship%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%902020%E7%99%BE%E5%BA%A6%E4%B9%8B%E6%98%9F%E5%88%9D%E8%B5%9B%E4%B8%80%201008%E3%80%91%E3%80%90hdu6750%E3%80%91Function%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%902020%E7%99%BE%E5%BA%A6%E4%B9%8B%E6%98%9F%E5%A4%8D%E8%B5%9B%201005%E3%80%91Battle%20for%20Wosneth2%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -337,7 +329,7 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90AtCoder%20Grand%20011E%E3%80%91Increasing%20Numbers%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%902021%20Multi-University%204%20G%E3%80%91Increasing%20Subsequence%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -345,7 +337,27 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
+    <loc>http://kqp.world/%E3%80%90300iq%20Contest%201%20H%E3%80%91Hall%E2%80%98s%20Theorem%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%90300iq%20Contest%201%20K%E3%80%91Knowledge%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%90AtCoder%20Grand%20017C%E3%80%91Snuke%20and%20Spells%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%90AtCoder%20Grand%20011E%E3%80%91Increasing%20Numbers%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
     <loc>http://kqp.world/%E3%80%90AtCoder%20Grand%20012C%E3%80%91Tautonym%20Puzzle%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%90AtCoder%20Grand%20024E%E3%80%91Sequence%20Growing%20Hard%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -357,19 +369,11 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90AtCoder%20Grand%20017C%E3%80%91Snuke%20and%20Spells%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
-    <loc>http://kqp.world/%E3%80%90300iq%20Contest%201%20H%E3%80%91Hall%E2%80%98s%20Theorem%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
     <loc>http://kqp.world/%E3%80%90AtCoder%20Grand%20030E%E3%80%91Less%20than%203%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90AtCoder%20Grand%20024E%E3%80%91Sequence%20Growing%20Hard%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90AtCoder%20Grand%20035D%E3%80%91Add%20and%20Remove%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -381,7 +385,7 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90AtCoder%20Grand%20035D%E3%80%91Add%20and%20Remove%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90AtCoder%20Regular%20119E%E3%80%91Pancakes%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -389,7 +393,7 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90AtCoder%20Regular%20119E%E3%80%91Pancakes%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90CF1214G%E3%80%91Feeling%20Good%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -397,7 +401,7 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90CF1214G%E3%80%91Feeling%20Good%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90CodeM%E5%88%9D%E8%B5%9BA%205%E3%80%91%E6%95%B0%E5%88%97%E4%BA%92%E8%B4%A8%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -405,7 +409,11 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90CodeM%E5%88%9D%E8%B5%9BA%205%E3%80%91%E6%95%B0%E5%88%97%E4%BA%92%E8%B4%A8%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90Hackerrank%20101Hack%2043%E3%80%91%E3%80%90JZOJ5135%E3%80%91K-Inversion%20Permutations%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%90Goodbye%20Jihai%E3%80%91%E3%80%90UOJ#497%E3%80%91%E6%96%B0%E5%B9%B4%E7%9A%84%E5%A4%8D%E8%AF%BB%E6%9C%BA%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -417,14 +425,6 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90Goodbye%20Jihai%E3%80%91%E3%80%90UOJ#497%E3%80%91%E6%96%B0%E5%B9%B4%E7%9A%84%E5%A4%8D%E8%AF%BB%E6%9C%BA%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
-    <loc>http://kqp.world/%E3%80%90Hackerrank%20101Hack%2043%E3%80%91%E3%80%90JZOJ5135%E3%80%91K-Inversion%20Permutations%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
     <loc>http://kqp.world/%E3%80%90JZOJ100019%E3%80%91A%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
@@ -433,15 +433,11 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90JZOJ4970%E3%80%91B%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
     <loc>http://kqp.world/%E3%80%90JZOJ4939%E3%80%91%E5%B9%B3%E5%9D%87%E5%80%BC%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90JZOJ5149%E3%80%91%E8%B6%85%E7%BA%A7%E7%BB%B5%E7%BE%8A%E5%BC%82%E6%88%96%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90JZOJ4970%E3%80%91B%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -449,15 +445,15 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
+    <loc>http://kqp.world/%E3%80%90JZOJ5149%E3%80%91%E8%B6%85%E7%BA%A7%E7%BB%B5%E7%BE%8A%E5%BC%82%E6%88%96%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
     <loc>http://kqp.world/%E3%80%90JZ%E9%9B%85%E7%A4%BC%E8%81%94%E8%80%83%E3%80%91%E8%B7%B3%E6%A5%BC%E6%9C%BA%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90Ozon%20Tech%20Challenge%202020%20F%E3%80%91Kuroni%20and%20the%20Punishment%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
-    <loc>http://kqp.world/%E3%80%90Samara%20Farewell%20Contest%202020%20C%E3%80%91Cyclically%20Shifted%20Maze%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90Petrozavodsk%20WC%202018d2%20ITMO%20U%201%20Contest%20I%E3%80%91Is%20It%20a%20p-drome!%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -465,7 +461,7 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90Petrozavodsk%20WC%202018d2%20ITMO%20U%201%20Contest%20I%E3%80%91Is%20It%20a%20p-drome!%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90Ozon%20Tech%20Challenge%202020%20F%E3%80%91Kuroni%20and%20the%20Punishment%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -474,6 +470,10 @@
   </url>
   <url>
     <loc>http://kqp.world/%E3%80%90Pre-Finals%202016,%20NTU%20Contest%20D%E3%80%91Drawing%20Hell%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%90Samara%20Farewell%20Contest%202020%20C%E3%80%91Cyclically%20Shifted%20Maze%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -493,15 +493,7 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90XVII%20Open%20Cup%20E.V.%20Pankratiev.%20Grand%20Prix%20of%20Europe.%20D%E3%80%91Dancing%20Disks%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
     <loc>http://kqp.world/%E3%80%90XJOI%E3%80%91path%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
-    <loc>http://kqp.world/%E3%80%90XVIII%20Open%20Cup%20E.V.%20Pankratiev.%20Grand%20Prix%20of%20Gomel%20E%E3%80%91Exit%20Song%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -509,7 +501,19 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
+    <loc>http://kqp.world/%E3%80%90XVIII%20Open%20Cup%20E.V.%20Pankratiev.%20Grand%20Prix%20of%20Gomel%20E%E3%80%91Exit%20Song%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%90XVIII%20Open%20Cup%20E.V.%20Pankratiev.%20Grand%20Prix%20of%20Korea.%20J%E3%80%91Game%20of%20Sorting%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
     <loc>http://kqp.world/%E3%80%90XVII%20Open%20Cup%20E.V.%20Pankratiev.%20Grand%20Prix%20of%20Europe.%20L%E3%80%91Lost%20Logic%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-01-26</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%90XVII%20Open%20Cup%20E.V.%20Pankratiev.%20Grand%20Prix%20of%20Europe.%20D%E3%80%91Dancing%20Disks%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -518,10 +522,6 @@
   </url>
   <url>
     <loc>http://kqp.world/%E3%80%90XVIII%20Open%20Cup%20E.V.%20Pankratiev.%20Grand%20Prix%20of%20Korea.%20G%E3%80%91MST%20with%20Metropolis%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
-    <loc>http://kqp.world/%E3%80%90XVIII%20Open%20Cup%20E.V.%20Pankratiev.%20Grand%20Prix%20of%20Korea.%20J%E3%80%91Game%20of%20Sorting%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
@@ -541,11 +541,11 @@
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90%E6%93%8D%E7%BB%9F%E5%AE%9E%E9%AA%8C%E3%80%91%E5%8E%9F%E5%9E%8B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%BF%9B%E5%8C%96%EF%BC%88%E6%97%A0%E9%99%90%E6%96%AD%E6%9B%B4%EF%BC%89/</loc>
+    <loc>http://kqp.world/%E3%80%90%E7%A8%8B%E8%AE%BE%E5%A4%A7%E4%BD%9C%E4%B8%9A%E3%80%91mydeque/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90%E7%A8%8B%E8%AE%BE%E5%A4%A7%E4%BD%9C%E4%B8%9A%E3%80%91mydeque/</loc>
+    <loc>http://kqp.world/%E3%80%90%E6%93%8D%E7%BB%9F%E5%AE%9E%E9%AA%8C%E3%80%91%E5%8E%9F%E5%9E%8B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%BF%9B%E5%8C%96%EF%BC%88%E6%97%A0%E9%99%90%E6%96%AD%E6%9B%B4%EF%BC%89/</loc>
     <lastmod>2022-01-26</lastmod>
   </url>
   <url>
