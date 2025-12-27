@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://kqp.world/academia_vs_industry/</loc>
+    <lastmod>2025-12-27</lastmod>
+  </url>
+  <url>
     <loc>http://kqp.world/Aqours-FL/</loc>
     <lastmod>2025-06-24</lastmod>
   </url>
@@ -11,10 +15,6 @@
   <url>
     <loc>http://kqp.world/short_sol_oj/</loc>
     <lastmod>2025-05-10</lastmod>
-  </url>
-  <url>
-    <loc>http://kqp.world/academia_vs_industry/</loc>
-    <lastmod>2025-05-01</lastmod>
   </url>
   <url>
     <loc>http://kqp.world/koushien/</loc>
@@ -57,11 +57,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E4%B8%80%E4%BA%9B%E2%80%9C%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E2%80%9D%E7%9B%B8%E5%85%B3%E7%9A%84%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B/</loc>
+    <loc>http://kqp.world/%E5%81%B6%E5%83%8F%E4%BD%9C%E5%93%81%E8%A1%8D%E7%94%9F%E7%9A%84%E7%BE%8E%E5%AD%A6%E5%93%B2%E5%AD%A6%20open%20problems/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E5%81%B6%E5%83%8F%E4%BD%9C%E5%93%81%E8%A1%8D%E7%94%9F%E7%9A%84%E7%BE%8E%E5%AD%A6%E5%93%B2%E5%AD%A6%20open%20problems/</loc>
+    <loc>http://kqp.world/%E4%B8%80%E4%BA%9B%E2%80%9C%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E2%80%9D%E7%9B%B8%E5%85%B3%E7%9A%84%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -85,11 +85,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90%E6%96%AD%E6%9B%B4%E3%80%91%E6%8E%A5%E4%B8%8B%E6%9D%A5%E7%9A%84%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/</loc>
+    <loc>http://kqp.world/%E3%80%90%E6%94%B9%E8%87%AACC_CHSEQ22%E3%80%91%E3%80%90JZOJ4807%E3%80%91%E7%A0%B4%E8%A7%A3%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90%E6%94%B9%E8%87%AACC_CHSEQ22%E3%80%91%E3%80%90JZOJ4807%E3%80%91%E7%A0%B4%E8%A7%A3%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90%E6%96%AD%E6%9B%B4%E3%80%91%E6%8E%A5%E4%B8%8B%E6%9D%A5%E7%9A%84%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -117,11 +117,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90Ynoi2016%E3%80%91%E3%80%90bzoj4939%E3%80%91%E6%8E%89%E8%BF%9B%E5%85%94%E5%AD%90%E6%B4%9E%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90ZJOI2017%E3%80%91%E4%BB%99%E4%BA%BA%E6%8E%8C%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90ZJOI2017%E3%80%91%E4%BB%99%E4%BA%BA%E6%8E%8C%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90Ynoi2016%E3%80%91%E3%80%90bzoj4939%E3%80%91%E6%8E%89%E8%BF%9B%E5%85%94%E5%AD%90%E6%B4%9E%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -137,11 +137,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90XVII%20Open%20Cup%20E.V.%20Pankratiev.%20Grand%20Prix%20of%20Europe.%20L%E3%80%91Lost%20Logic%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90XVIII%20Open%20Cup%20E.V.%20Pankratiev.%20Grand%20Prix%20of%20Gomel%20E%E3%80%91Exit%20Song%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90XVIII%20Open%20Cup%20E.V.%20Pankratiev.%20Grand%20Prix%20of%20Gomel%20E%E3%80%91Exit%20Song%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90XVII%20Open%20Cup%20E.V.%20Pankratiev.%20Grand%20Prix%20of%20Europe.%20L%E3%80%91Lost%20Logic%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -217,11 +217,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90Petrozavodsk%20WC%202018d2%20ITMO%20U%201%20Contest%20E%E3%80%91Enumeration%20of%20Tournaments%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90Petrozavodsk%20WC%202018d2%20ITMO%20U%201%20Contest%20I%E3%80%91Is%20It%20a%20p-drome!%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90Petrozavodsk%20WC%202018d2%20ITMO%20U%201%20Contest%20I%E3%80%91Is%20It%20a%20p-drome!%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90Petrozavodsk%20WC%202018d2%20ITMO%20U%201%20Contest%20E%E3%80%91Enumeration%20of%20Tournaments%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -233,11 +233,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90MIPT%20Workshop%20Open%201%20K%E3%80%91Blocks%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90Moscow%20Workshop%202019%20WinterCamp%20day3%20divB%20L%E3%80%91LED-led%20Paths%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90Moscow%20Workshop%202019%20WinterCamp%20day3%20divB%20L%E3%80%91LED-led%20Paths%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90MIPT%20Workshop%20Open%201%20K%E3%80%91Blocks%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -249,11 +249,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90JZ%E9%9B%85%E7%A4%BC%E8%81%94%E8%80%83%E3%80%91Binary%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90JZ%E9%9B%85%E7%A4%BC%E8%81%94%E8%80%83%E3%80%91%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90JZ%E9%9B%85%E7%A4%BC%E8%81%94%E8%80%83%E3%80%91%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90JZ%E9%9B%85%E7%A4%BC%E8%81%94%E8%80%83%E3%80%91Binary%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -293,11 +293,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90JZOJ4893%E3%80%91%E8%BF%87%E6%B2%B3%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90JZOJ4916%E3%80%91%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90JZOJ4916%E3%80%91%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90JZOJ4893%E3%80%91%E8%BF%87%E6%B2%B3%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -333,11 +333,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90JZOJ4155%E3%80%91%E4%BC%A0%E9%80%81%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90JZOJ4473%E3%80%91Incantation%20Solution/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90JZOJ4473%E3%80%91Incantation%20Solution/</loc>
+    <loc>http://kqp.world/%E3%80%90JZOJ4155%E3%80%91%E4%BC%A0%E9%80%81%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -349,11 +349,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90hihocoder1455%E3%80%91Rikka%20with%20Tree%20III%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90hdu5382%E3%80%91GCD!LCM!%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90hdu5382%E3%80%91GCD!LCM!%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90hihocoder1455%E3%80%91Rikka%20with%20Tree%20III%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -365,15 +365,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90Hackerrank%20University2%E3%80%91%E3%80%90JZOJ5008%E3%80%91Querying%20Sums%20on%20Strings%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  <url>
     <loc>http://kqp.world/%E3%80%90Hackerrank%20World11%E3%80%91Road%20Trip%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90GDOI2016%E3%80%91%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90Hackerrank%20University2%E3%80%91%E3%80%90JZOJ5008%E3%80%91Querying%20Sums%20on%20Strings%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -385,11 +381,15 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90FZU2020%20J%E3%80%91%E9%9B%86%E5%90%88%E5%B9%B6%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90GDOI2016%E3%80%91%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
     <loc>http://kqp.world/%E3%80%90GDOI2016%E3%80%91%E4%BA%92%E8%A1%A5%E7%BA%A6%E6%95%B0%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2024-04-24</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%90FZU2020%20J%E3%80%91%E9%9B%86%E5%90%88%E5%B9%B6%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -413,7 +413,7 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90CF741C%E3%80%91Arpa's%20overnight%20party%20and%20Mehrdad's%20silent%20entering%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90CF763B%E3%80%91Timofey%20and%20rectangles%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -421,15 +421,15 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90CF763B%E3%80%91Timofey%20and%20rectangles%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  <url>
-    <loc>http://kqp.world/%E3%80%90CF392D%E3%80%91Three%20Arrays%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90CF741C%E3%80%91Arpa's%20overnight%20party%20and%20Mehrdad's%20silent%20entering%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
     <loc>http://kqp.world/%E3%80%90CF367D%E3%80%91Sereja%20and%20Sets%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2024-04-24</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%90CF392D%E3%80%91Three%20Arrays%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -501,11 +501,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90AtCoder%20Grand%20037D%E3%80%91Sorting%20a%20Grid%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90AtCoder%20Grand%20036B%E3%80%91Do%20Not%20Duplicate%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%90AtCoder%20Grand%20036B%E3%80%91Do%20Not%20Duplicate%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%90AtCoder%20Grand%20037D%E3%80%91Sorting%20a%20Grid%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -565,15 +565,19 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%902021%20Multi-University%204%20G%E3%80%91Increasing%20Subsequence%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  <url>
     <loc>http://kqp.world/%E3%80%902021%20Multi-University%204%20E%E3%80%91Didn%E2%80%98t%20I%20Say%20to%20Make%20My%20Abilities%20Average%20in%20the%20Next%20Life!%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
+    <loc>http://kqp.world/%E3%80%902021%20Multi-University%204%20G%E3%80%91Increasing%20Subsequence%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2024-04-24</lastmod>
+  </url>
+  <url>
     <loc>http://kqp.world/%E3%80%902022icpc%20Regional%20%E5%8D%97%E4%BA%AC%20E%E3%80%91Color%20the%20Tree%20%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2024-04-24</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/%E3%80%902021%20ICPC%20Gran%20Premio%20de%20Mexico%202da%20Fecha%20F%E3%80%91Flipped%20Factorization%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -582,10 +586,6 @@
   </url>
   <url>
     <loc>http://kqp.world/%E3%80%902021%20Multi-University%202%20J%E3%80%91I%20love%20permutation%20%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  <url>
-    <loc>http://kqp.world/%E3%80%902021%20ICPC%20Gran%20Premio%20de%20Mexico%202da%20Fecha%20F%E3%80%91Flipped%20Factorization%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -601,11 +601,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%902020%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9C%81%E9%80%89%E3%80%91%E7%BB%84%E5%90%88%E6%95%B0%E9%97%AE%E9%A2%98%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%902020%E7%89%9B%E5%AE%A2%E5%A4%9A%E6%A0%A1%E7%AC%AC%E4%B8%83%E5%9C%BA%20E%E3%80%91NeoMole%20Synthesis%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%902020%E7%89%9B%E5%AE%A2%E5%A4%9A%E6%A0%A1%E7%AC%AC%E4%B8%83%E5%9C%BA%20E%E3%80%91NeoMole%20Synthesis%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%902020%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9C%81%E9%80%89%E3%80%91%E7%BB%84%E5%90%88%E6%95%B0%E9%97%AE%E9%A2%98%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -669,11 +669,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%902018icpc%20Regional%20Dhaka%20G%E3%80%91Techland%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%902018ccpc%E7%BD%91%E7%BB%9C%E8%B5%9B1008%E3%80%91%E3%80%90hdu6445%E3%80%91Search%20for%20Answer%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%902018ccpc%E7%BD%91%E7%BB%9C%E8%B5%9B1008%E3%80%91%E3%80%90hdu6445%E3%80%91Search%20for%20Answer%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%902018icpc%20Regional%20Dhaka%20G%E3%80%91Techland%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -693,11 +693,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%902017%20X%20Samara%20Regional%20Intercollegiate%20Programming%20Contest%20I%E3%80%91Matrix%20God%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%902017%20BSUIR%20Semifinal%20G%E3%80%91Digital%20characteristic%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/%E3%80%902017%20BSUIR%20Semifinal%20G%E3%80%91Digital%20characteristic%20%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://kqp.world/%E3%80%902017%20X%20Samara%20Regional%20Intercollegiate%20Programming%20Contest%20I%E3%80%91Matrix%20God%20%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -709,11 +709,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/ZJOI2017_round1/</loc>
+    <loc>http://kqp.world/ZKP/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/ZKP/</loc>
+    <loc>http://kqp.world/ZJOI2017_round1/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -725,11 +725,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/Tiny+syntaxtree/</loc>
+    <loc>http://kqp.world/Tiny+3addrcode/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/Tiny+3addrcode/</loc>
+    <loc>http://kqp.world/Tiny+syntaxtree/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -773,11 +773,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/proof_of_complexity_of_Pollard_Rho/</loc>
+    <loc>http://kqp.world/programming_printf/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/programming_printf/</loc>
+    <loc>http://kqp.world/proof_of_complexity_of_Pollard_Rho/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -797,11 +797,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/noip2016/</loc>
+    <loc>http://kqp.world/noip2015%E4%BA%94%E6%A0%A1%E8%81%94%E8%80%831%E3%80%819.12%E6%A8%A1%E6%8B%9F%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/noip2015%E4%BA%94%E6%A0%A1%E8%81%94%E8%80%831%E3%80%819.12%E6%A8%A1%E6%8B%9F%E6%80%BB%E7%BB%93/</loc>
+    <loc>http://kqp.world/noip2016/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -857,19 +857,19 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/GDOI2017/</loc>
-    <lastmod>2024-04-24</lastmod>
-  </url>
-  <url>
     <loc>http://kqp.world/GDOI2016%E6%A8%A1%E6%8B%9F2%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/GDKOI2017/</loc>
+    <loc>http://kqp.world/GDOI2017/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
     <loc>http://kqp.world/GDOI2016/</loc>
+    <lastmod>2024-04-24</lastmod>
+  </url>
+  <url>
+    <loc>http://kqp.world/GDKOI2017/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -889,11 +889,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/20days_in_beijing(ctsc2017-thusc2017)/</loc>
+    <loc>http://kqp.world/9%E6%9C%88%E5%A4%A7%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/9%E6%9C%88%E5%A4%A7%E6%80%BB%E7%BB%93/</loc>
+    <loc>http://kqp.world/20days_in_beijing(ctsc2017-thusc2017)/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
@@ -905,11 +905,11 @@
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/2020_EC_Final/</loc>
+    <loc>http://kqp.world/2019_ICPC_shenyang/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
-    <loc>http://kqp.world/2019_ICPC_shenyang/</loc>
+    <loc>http://kqp.world/2020_EC_Final/</loc>
     <lastmod>2024-04-24</lastmod>
   </url>
   <url>
